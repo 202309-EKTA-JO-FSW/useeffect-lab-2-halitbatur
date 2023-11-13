@@ -1,5 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12637891&assignment_repo_type=AssignmentRepo)
-#useEffect-lab-2
+
+# useEffect-lab-2
 
 In this activity we will use GitHub Users API to fetch the user’s public information with their usernames.
 
@@ -13,7 +14,7 @@ You are supposed to update one page and two components:
 2. Form component: A search bar to get the user input for the GitHub username to be fetched.
 3. UserCard component: A reusable component to display the GitHub user information.
 
-##Instructions:
+## Instructions:
 
 1. In the index.jsx page, we should have two states, one for input from the user and a second one to store the response from the API. We need to fetch the user data, every time there is an update to the username. To achieve this, you are going to have to use `useEffect`.
 
